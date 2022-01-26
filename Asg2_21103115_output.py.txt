@@ -1,0 +1,36 @@
+<A>THE LENGTH OF STRING IS 35
+<B>THE REVERSED STRING IS  egaugnal evitisnes esac a si nohtyP
+<E>THE INDEX OF SUBSTRING a is  10
+<F>THE ORIGINAL STRING AFTER REMOVING WHITESPACES IS Pythonisacasesensitivelanguage
+
+
+Enter your name. Manraj
+Enter your SID. 21103115
+Enter your department. CSE
+Enter your CGPA. 8.5
+Hey Manraj, Here!
+My SID is 21103115
+I am from CSE and my CGPA is 8.500000
+
+
+i)  8
+j)  58
+k)  50
+Left shift both i and j with 2 bits respectively are: 224 40
+Right shift a with 2 bits and b with 4 bits respectively are:  14 0
+
+
+Enter first number: 55
+Enter second number: 54
+Enter third number: 60
+THE LARGEST NUMBER IS  60
+
+
+ENTER A STRINGname
+Yes
+
+
+ENTER FIRST SIDE OF TRIANGLE5
+ENTER SECOND SIDE OF TRIANGLE6
+ENTER THIRD SIDE OF TRIANGLE8
+Yes
